@@ -1,9 +1,3 @@
-# Projet-final-INFO-4900
-
-Bien sûr. Voici le texte du fichier `README.md` dans un format simple et épuré, sans emojis, sans balises de citation, et prêt à être copié.
-
------
-
 # Projet-final-INFO-4900 : Challenge de Rendu et de Dynamique Physique
 
 ## Aperçu du Projet
